@@ -1,7 +1,20 @@
 # 🌱 DSA Learning
 
-### This repository contains all my Data structures and algorithms practice problems which is written in java
+This repository contains my **Data Structures and Algorithms** practice problems written in **Java**.
 
-## Topics Covered ✅
-# Sorting Algorithms
-- [QuickSort](https://github.com/anjupriya-v/dsa-in-java/blob/main/Sorting/QuickSort.java) 
+---
+
+## 📂 Topics & Files
+
+| Topic        | Files |
+|--------------|-------|
+| **[Sorting](Sorting/)** | [QuickSort.java](Sorting/QuickSort.java) |
+
+---
+
+## 🚀 How to Run
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/anjupriya-v/dsa-in-java.git
+   cd dsa-in-java
