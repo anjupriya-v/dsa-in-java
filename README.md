@@ -14,7 +14,11 @@ This repository contains my **Data Structures and Algorithms** practice problems
 
 ## 🚀 How to Run
 
-1. **Clone this repository**
+ **Open the terminal and run the below commands**
    ```bash
    git clone https://github.com/anjupriya-v/dsa-in-java.git
    cd dsa-in-java
+   cd Sorting
+   javac file-name.java
+   java ClassName
+   ```
