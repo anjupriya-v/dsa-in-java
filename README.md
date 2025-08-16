@@ -8,7 +8,7 @@ This repository contains my **Data Structures and Algorithms** practice problems
 
 | Topic        | Files |
 |--------------|-------|
-| **[Sorting](Sorting/)** | [QuickSort.java](Sorting/QuickSort.java) |
+| **[Sorting](Sorting/)** | [QuickSort.java](Sorting/QuickSort.java), [InsertionSort.java](Sorting/InsertionSort.java)  |
 
 ---
 
